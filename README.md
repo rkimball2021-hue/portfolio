@@ -62,7 +62,7 @@ Open http://localhost:8000 and press Ctrl+C in the terminal to stop.
 
 ### How this site is published now
 
-The source lives at https://github.com/rkimball2021-hue/rkimball2021-hue.github.io. Every push to `main` runs `.github/workflows/deploy.yml`, which runs `build.py` and uploads `site/` to Cloudflare Pages (robertlkimball.com). Watch it under the repo's **Actions** tab or with `gh run watch`.
+The source lives at https://github.com/rkimball2021-hue/portfolio. Every push to `main` runs `.github/workflows/deploy.yml`, which runs `build.py` and uploads `site/` to Cloudflare Pages (robertlkimball.com). Watch it under the repo's **Actions** tab or with `gh run watch`.
 
 ```
 git add -A
