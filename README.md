@@ -60,7 +60,21 @@ Open http://localhost:8000 and press Ctrl+C in the terminal to stop.
 
 ## 4. Publish for free
 
-### Option A: GitHub Pages (recommended)
+### How this site is published now
+
+The source lives at https://github.com/rkimball2021-hue/rkimball2021-hue.github.io. Every push to `main` runs `.github/workflows/deploy.yml`, which runs `build.py` and uploads `site/` to Cloudflare Pages (robertlkimball.com). Watch it under the repo's **Actions** tab or with `gh run watch`.
+
+```
+git add -A
+git commit -m "Describe the change"
+git push
+```
+
+The workflow needs the repo secrets `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` and the repo variable `CLOUDFLARE_PROJECT` (the Cloudflare Pages project name), under **Settings → Secrets and variables → Actions**.
+
+The options below are the original manual alternatives.
+
+### Option A: GitHub Pages
 
 1. Create a free GitHub account, then a **public** repository named `<your-username>.github.io`.
 2. Easiest: on the repository page click **Add file → Upload files**, drag in everything *inside* `site/` (not the folder itself), and commit.
