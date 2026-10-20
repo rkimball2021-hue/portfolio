@@ -1,0 +1,1196 @@
+{
+ "site": {
+  "base_url": "https://robertlkimball.com",
+  "title": "Robert Kimball – Mechanical Engineer",
+  "description": "Robert Kimball, mechanical engineering student at Northeastern (B.S. May 2027). Hasbro project engineer co-op. Mechanisms, 3D-printed prototypes, DFMA and root cause analysis.",
+  "og_image": "assets/img/animatronic-eye-mech/01_EyeIsoView.jpg",
+  "resume_pdf": "assets/Robert_Kimball_Resume.pdf"
+ },
+ "profile": {
+  "name": "Robert Kimball",
+  "headline": "Mechanical Engineer",
+  "pitch": "Mechanical Engineering B.S. at Northeastern University, graduating May 2027. Seeking new-grad mechanical and product design roles; available May 2027 and open to relocation.",
+  "tagline": "Two Hasbro co-ops · mechanisms · 3D-printed prototypes · DFMA",
+  "email": "kimball.r@northeastern.edu",
+  "phone": "781.540.4491",
+  "linkedin": "https://www.linkedin.com/in/robert-kimball-252b822a9/",
+  "location": "Boston, MA",
+  "headshot": {
+   "src": "assets/img/_pages/home/02_IMG_3410.jpeg",
+   "alt": "Portrait of Robert Kimball"
+  },
+  "about": [
+   "I am a fifth-year Mechanical Engineering student at Northeastern University with a passion for creative problem solving, particularly in product development.",
+   "I want to use engineering to make meaningful change, whether that is the next hit board game, an innovative tech product, or a life-saving medical device."
+  ],
+  "hobbies_text": "Outside of engineering I am an avid golfer, outdoorsman, musician and chef.",
+  "hobbies": [
+   {
+    "src": "assets/img/_pages/home/05_76271414334__849CA481-551D-4049-BFA6-51C325A1E75C.jpeg",
+    "alt": "Robert on a golf course",
+    "caption": "Golf"
+   },
+   {
+    "src": "assets/img/_pages/home/03_Resized_20241226_190119_481898692970332.jpeg",
+    "alt": "Robert in a chef's hat with a plated steak dinner",
+    "caption": "Cooking"
+   }
+  ],
+  "citizenship": ""
+ },
+ "education": {
+  "school": "Northeastern University",
+  "location": "Boston, MA",
+  "degree": "B.S. in Mechanical Engineering",
+  "date": "May 2027",
+  "courses": [
+   "Mechanical Engineering Design",
+   "Mechanical Engineering Computation & Design (FEA)",
+   "Thermal Systems Analysis & Design",
+   "System Analysis & Control",
+   "Measurement & Analysis",
+   "Fluid Mechanics",
+   "Thermodynamics",
+   "Dynamics",
+   "Mechanics of Materials",
+   "Probability & Statistics",
+   "Engineering Project Management (graduate level)"
+  ]
+ },
+ "highlights": [
+  "SolidWorks (CSWA)",
+  "SolidWorks Simulation",
+  "Arduino C++",
+  "GPA 3.88/4.0",
+  "Dean's List",
+  "Tau Beta Pi",
+  "Pi Tau Sigma"
+ ],
+ "skills": [
+  {
+   "label": "CAD & Analysis",
+   "items": [
+    "SolidWorks (CSWA)",
+    "SolidWorks Simulation",
+    "Abaqus (coursework)",
+    "MATLAB (coursework)",
+    "Hand calcs: stress, fatigue, bolted joints",
+    "Bentley OpenBuildings (2D/3D)",
+    "Siemens NX (Coursera)"
+   ]
+  },
+  {
+   "label": "Manufacturing & Quality",
+   "items": [
+    "DFM/DFMA",
+    "Injection-molding defect and tooling review",
+    "Root-cause analysis",
+    "Supplier quote review"
+   ]
+  },
+  {
+   "label": "Test & Measurement",
+   "items": [
+    "Sensor calibration",
+    "Arduino DAQ",
+    "Thermocouples, RTDs, strain gauges, pressure transducers",
+    "Uncertainty analysis",
+    "ANOVA"
+   ]
+  },
+  {
+   "label": "Build & Automation",
+   "items": [
+    "3D printing (Bambu Lab A1)",
+    "Arduino C++",
+    "Power tools and framing",
+    "Excel, VBA",
+    "Power Apps/Automate/Query",
+    "SharePoint",
+    "Claude"
+   ]
+  }
+ ],
+ "experience": [
+  {
+   "org": "Hasbro",
+   "title": "Project Engineer Co-op",
+   "group": "Fashion, Preschool, Disney",
+   "location": "Pawtucket, RI",
+   "date": "Jun 2026 – Dec 2026",
+   "bullets": [
+    "Own engineering for 10 My Little Pony items (avg. ~100k units each): write the Universal Feasibility Specs (target cost, tooling estimate, ex-factory dates) that launch each item with overseas teams, and present at all 3 stage gates",
+    "Review ~50 injection-molded figure samples a month for function, molding defects (short shots, flash, sink) and screen accuracy vs. licensor specs; track issues with the overseas team to sign-off",
+    "Review Tool Check CAD and factory tooling feedback (sharp tools, undercuts); help choose fixes to accept",
+    "Proposed an error-proofing DFMA change for a new collectible, adopted into the design: a thick ABS base frame for the common tier and stacked PVC layers for higher tiers, so every tier aligns the same way and assembles only one way",
+    "Lead weekly cross-functional development meetings with design, engineering, PM, QA, packaging and marketing",
+    "Push back on supplier quotes over target cost and join Design to Value competitor teardowns; self-initiated a scheduled Claude task (Hasbro enterprise account) that turns email into the daily sample-review agenda"
+   ]
+  },
+  {
+   "org": "Hasbro",
+   "title": "Project Engineer Co-op",
+   "group": "Games, Play-Doh, NERF",
+   "location": "Pawtucket, RI",
+   "date": "Jun 2025 – Dec 2025",
+   "bullets": [
+    "Root-caused cracking in PET vacuum-formed trays (stiff corners, edge-weakening patterns); new standard (larger radii, thinner gauge, corrugated corner protectors) passed QA drop tests, est. ~$120k/yr on one title",
+    "Self-initiated a cost-estimating tool (Power Apps, Power Query, SharePoint) built on a database of past quotes; cut a typical estimate from ~1 hour to ~5 minutes for the 4 games engineers",
+    "Led a 5-person co-op team from concept to a well-received 3D-printed toy prototype; designed its spring-loaded rack-and-pinion slide and packaged electronics from torn-down products into PLA parts",
+    "After tariff-driven factory moves put NERF items behind schedule, worked with the PM to rank urgent items and re-route projects to other vendors"
+   ],
+   "projects": [
+    "vac-tray-study",
+    "cost-estimation-tool",
+    "epic-project"
+   ]
+  },
+  {
+   "org": "Beacon Consulting Group",
+   "title": "Project Engineer Co-op",
+   "location": "Medford, MA",
+   "date": "Jul 2024 – Dec 2024",
+   "bullets": [
+    "Analyzed cost-to-complete on commercial construction projects; wrote VBA macros used across the company, including one that inserts and captions site photos in reports"
+   ]
+  },
+  {
+   "org": "Davey Engineering & Construction",
+   "title": "Junior Designer & CAD Operator",
+   "location": "Canton, MA",
+   "date": "Jun 2021 – Dec 2023",
+   "bullets": [
+    "Modeled sprinkler, plumbing and HVAC systems (Bentley OpenBuildings, 2D/3D) for ~30 residential projects",
+    "Ran NFPA 13/13D/13R sprinkler hydraulic calcs in Elite Software FIRE, checking demand against water supply; prepared ~30 permit sets and fire protection narratives citing NFPA and Massachusetts code",
+    "Led weekly on-site coordination meetings with engineers and foremen to resolve issues and delays"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "slug": "animatronic-eye-mech",
+   "title": "Animatronic Eye Mech",
+   "kind": "Personal project",
+   "home": "featured",
+   "card": "Two SG90 servos: one sweeps the eye 100°, one blinks both lids through a 12-tooth gear pair designed into the eyelids.",
+   "summary": {
+    "Problem": "Design a fully 3D-printed, compact animatronic eye driven by an Arduino and servo motors.",
+    "Date": "Feb – Mar 2026",
+    "My role": "Personal project: research, SolidWorks design, printing, assembly and Arduino code",
+    "Size": "80 × 84 × 59 mm with the servo stand (about 3 in at the base); Ø64 mm eyeball",
+    "Tools": "SolidWorks, Bambu Lab A1 (PLA), Arduino C++, two SG90 micro servos",
+    "Result": "Working eye (iteration 3, joints repaired) that blinks and looks left and right"
+   },
+   "sections": [
+    {
+     "heading": "Approach",
+     "items": [
+      "Researched existing eye mechs and brainstormed ideas to make them more compact. Prioritized mounting the servos within the eye, making the design self-contained."
+     ]
+    },
+    {
+     "heading": "Design",
+     "items": [
+      {
+       "text": "Eye movement: the eyeball needed to look left and right.",
+       "items": [
+        "A central arm connects directly to an SG90 micro servo and rotates the eye left and right."
+       ]
+      },
+      {
+       "text": "Geared eyelids: the eyelids needed to blink without multiple servos or large linkages.",
+       "items": [
+        "Custom gears are designed directly into the upper and lower eyelids. The gears mesh, so the lids always open and close together and only one eyelid needs to be driven by a servo."
+       ]
+      },
+      {
+       "text": "Self-contained eyelid drive: the servo needed to mount within the eye cavity.",
+       "items": [
+        "The eyelid servo mounts on a frame inside the eye, keeping the whole mechanism compact. A curved two-bar linkage reaches up and over the eyeball to the top of the upper eyelid, shaped to stay clear of the eyeball as it rotates left and right."
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Specs (from the final CAD, v3)",
+     "items": [
+      "Overall: 80 × 84 × 59 mm including the servo test stand; 10 parts in the final assembly.",
+      "Eyeball: Ø64 mm sphere with a 1.0 mm wall. Eyelids: 72 mm wide, 1.0 mm shells.",
+      {
+       "text": "Eyelid gears: a 1:1 spur pair cut into the eyelid hubs, so one servo drives both lids.",
+       "items": [
+        "12 teeth, module 0.8, 20° pressure angle",
+        "Ø9.6 mm pitch, Ø11.2 mm tip, 9.6 mm center distance"
+       ]
+      },
+      "Eyelid linkage: 30.0 mm crank on the lid servo and a curved 26.79 mm coupler (R35 mm arc) that reaches over the eyeball to the upper lid.",
+      "Clearances: lid bores Ø3.0 mm on Ø2.5 mm pivots (0.5 mm diametral clearance); the upper lid has a 1.5 mm slot for the Ø2.0 mm hinge pin.",
+      "Servos: two SG90 micro servos, one for the eyeball and one for the eyelids, both packed into the hollow back of the eyeball.",
+      "Printing: PLA on a Bambu Lab A1, 0.2 mm layers."
+     ]
+    },
+    {
+     "heading": "Iterations",
+     "items": [
+      {
+       "text": "First iteration: the print-in-place gears were too small and the teeth fused together. The test stand was not stable enough to support the rotational inertia from the servos.",
+       "items": [
+        "CAD v1: 10-tooth gears (Ø7.0 mm tip) with Ø2.5 mm bores on Ø2.5 mm pivots, so zero clearance; 68 mm lids."
+       ]
+      },
+      {
+       "text": "Second iteration: incorrect tolerancing prevented the two-bar linkage from securely connecting to the eyelid. The servos were not properly secured to the test stand.",
+       "items": [
+        "CAD v2: 12 teeth at module 0.5 (Ø6.0 mm pitch); bores opened to Ø3.0 mm on the same Ø2.5 mm pivots (0.5 mm clearance)."
+       ]
+      },
+      {
+       "text": "Third iteration: resized the gear teeth, added cross braces to the test stand, added a slot to the eyelid, and added screw holes to secure the servos. The mechanism worked, but the linkage joints were too small and broke during assembly. I repaired them with duct tape; this repaired third iteration is the eye in the video.",
+       "items": [
+        "CAD v3: same 12 teeth scaled up to module 0.8 (Ø9.6 mm pitch, pivots 6.0 → 9.6 mm apart); lids widened 68 → 72 mm."
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Code",
+     "items": [
+      "Arduino C++, adapted from a SparkFun Inventor's Kit servo example (Circuit 3A).",
+      "Three push buttons: look left, look right and blink.",
+      "Look: the eyeball servo moves between 40° and 140° (a 100° sweep). While a button is held, each 10 ms step covers 5% of the remaining distance, so the eye starts fast and eases into the end position.",
+      "Blink: the lid servo goes from 20° to 70°. Each 10 ms step multiplies the angle by 1.1 to close and divides by 1.1 to open, which gives an eased motion. Computed from the code: about 140 ms to close, a 100 ms hold and about 140 ms to open, so one blink takes about 0.4 s."
+     ]
+    },
+    {
+     "heading": "Result",
+     "items": [
+      "A working animatronic eye, about 3 in at the base, that blinks and looks left and right with two SG90 micro servos mounted in the back of the eye. I tested the full mechanism on the printed servo test stand.",
+      "The eye has since been taken apart. The video, the SolidWorks files and the Arduino sketch are the record of the build."
+     ]
+    },
+    {
+     "heading": "What I'd improve next",
+     "items": [
+      "Increase the outer diameter of the linkage joints so they do not break when the pins are inserted.",
+      "Fix an overshoot bug in the blink: the close loop stops only after the angle passes 70°, so the last ×1.1 step reaches about 76°. The loop should clamp the angle to the 70° limit.",
+      "Add running clearance where the CAD is line-to-line: the Ø2.0 mm hinge pin sits in a Ø2.0 mm hole, and the eyelid shells (R32 mm inside) sit on the eyeball (R32 mm outside)."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Advanced assemblies in SolidWorks",
+      "Designing linkages and slots for dynamic motion and simpler assembly",
+      "Creating organic servo motion with custom Arduino code"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/cad/eye/eye_assembly_iso.png",
+     "alt": "SolidWorks isometric of the final geared eyelid assembly: eyeball, two eyelid shells with meshing gears at the hinge, and the curved linkage over the top",
+     "caption": "Final eyelid assembly (v3), isometric: the 12-tooth gears at the hinge link both eyelids"
+    },
+    {
+     "src": "assets/img/cad/eye/eye_section_linkage.png",
+     "alt": "Section view through the linkage plane showing the thin eyeball and eyelid shells, crank and curved coupler arm, and two blue SG90 servos inside the eye",
+     "caption": "Section through the linkage: 1 mm shells, 30 mm crank, curved 26.79 mm coupler and both SG90 servos packed into the back of the eye"
+    },
+    {
+     "src": "assets/img/cad/eye/eye_gear_mesh_closeup.png",
+     "alt": "Close-up side view of two meshing 12-tooth spur gears on the eyelid hubs",
+     "caption": "Eyelid gear pair: 12 teeth, module 0.8, Ø9.6 mm pitch, 1:1"
+    },
+    {
+     "src": "assets/img/animatronic-eye-mech/01_EyeIsoView.jpg",
+     "alt": "SolidWorks render of the animatronic eye mech: eyeball, geared eyelids and curved linkage on a test stand, front isometric view",
+     "caption": "Final CAD assembly, front"
+    },
+    {
+     "src": "assets/img/animatronic-eye-mech/02_EyeIsoViewBack.jpg",
+     "alt": "SolidWorks render from the back showing the two servos mounted inside the eye frame",
+     "caption": "Final CAD assembly, back: both servos mount in the back of the eye"
+    },
+    {
+     "src": "assets/img/animatronic-eye-mech/03_EyeSideViewNoStand.jpg",
+     "alt": "SolidWorks side view without the stand, showing the eyelid gears and the linkage arching over the eyeball",
+     "caption": "Side view without stand: eyelid gears and two-bar linkage"
+    }
+   ],
+   "videos": [
+    {
+     "src": "assets/video/animatronic-eye-mech-1.mp4",
+     "poster": "assets/img/animatronic-eye-mech/video1_poster.jpg",
+     "title": "Animatronic eye mech: iteration 3 (joints repaired) in action"
+    }
+   ],
+   "video_position": 3
+  },
+  {
+   "slug": "vac-tray-study",
+   "title": "Vacuum Form Tray Study",
+   "kind": "Hasbro · Games",
+   "home": "featured",
+   "card": "Found why PET vacuum-formed game trays cracked; the new standard passed QA drop tests, est. ~$120k/year on one title.",
+   "stat": "~$120k/yr (est.)",
+   "summary": {
+    "Problem": "Vacuum-formed game packaging trays were cracking. Find the root cause and a large-scale, cost-effective fix.",
+    "My role": "Project Engineer Co-op, Hasbro (Games, Play-Doh, NERF): assigned the investigation, root cause and fix",
+    "Method": "Hands-on inspection of failed trays, material review from supplier quotes, analysis of Hasbro QA drop-test results",
+    "Result": "New-standard trays passed QA drop tests; estimated ~$120k/year in savings on one title made in the millions"
+   },
+   "sections": [
+    {
+     "heading": "Background",
+     "items": [
+      "Game packaging trays are vacuum-formed PET inserts that sit in the box and hold all of a board game's components.",
+      "Trays from several games were failing, and the goal was a large-scale, cost-effective fix."
+     ]
+    },
+    {
+     "heading": "Failure mode and root cause",
+     "items": [
+      "Failure mode: the trays cracked.",
+      {
+       "text": "Root cause: two things weakened the trays.",
+       "items": [
+        "The corners were too stiff to flex and absorb impact.",
+        "Small decorative patterns on the top of the tray weakened the material around the edges."
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "How I investigated",
+     "items": [
+      "Inspected every failed tray by hand, touching and flexing it.",
+      "Read the supplier quotes for each product to find out which materials were used.",
+      "Compared the failed trays with each other to find what they had in common.",
+      "Analyzed the results of Hasbro QA's internal drop tests. QA ran the tests; I analyzed the results.",
+      "Reported the findings to management in a detailed PowerPoint presentation."
+     ]
+    },
+    {
+     "heading": "The fix",
+     "items": [
+      "Larger corner radii, so the corners flex more and cushion the components in the box.",
+      "Thinner material: many trays still failed at the maximum #32 gauge, so thicker material was not the answer.",
+      "Corrugated corner protectors in the master cartons, which cost less than thickening the tray material."
+     ]
+    },
+    {
+     "heading": "Result",
+     "items": [
+      "Trays built to the new standard passed Hasbro QA's drop tests.",
+      "Estimated ~$120k/year in savings on one title, a game made in the millions.",
+      "Wrote tray design standards for future Hasbro Games trays."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Working through a root cause analysis, from failed parts to a fix",
+      "Writing reports that compare many different metrics"
+     ]
+    }
+   ],
+   "images": [],
+   "videos": []
+  },
+  {
+   "slug": "benchpress",
+   "title": "BenchPress: Hand-Crank Folding Picnic Table",
+   "kind": "Team project · ME 4550",
+   "home": "featured",
+   "card": "My part of a 5-person design: frame stress and Goodman fatigue that set the frame steel, the frame-to-brace bolt, and the team's part CAD.",
+   "stat": "Fatigue → 1006 steel",
+   "card_image": false,
+   "summary": {
+    "Problem": "Design a folding picnic table whose legs fold out with a hand crank and gearbox (no motor).",
+    "Date": "Summer 2026",
+    "Team": "5 students; Prof. Hashemi; report dated 06/04/2026",
+    "My role": "Frame and brace stress and fatigue, frame-to-brace bolt, the team's part CAD and 3D printing",
+    "Design assumptions": "1000 lb total load; target safety factor 2",
+    "Tools": "Hand calculations, SolidWorks, 3D printing"
+   },
+   "intro": "This was a class design project. No physical prototype was built or tested. The numbers below come from hand calculations in the team's final report.",
+   "sections": [
+    {
+     "heading": "The design",
+     "items": [
+      "A 72 in × 30 in tabletop with two 72 in benches. The legs swing out from the folded position.",
+      "A 6 in hand crank drives a 2-stage spur gearbox to raise the legs. The input is set at 5 lbf, the ADA minimum force to open a door.",
+      "Design assumptions: at most 1000 lb on the table and benches, and a safety factor of 2."
+     ]
+    },
+    {
+     "heading": "My part: frame and brace stress (report §2.1)",
+     "items": [
+      "Drew the free-body diagrams of the bench frame and its 45° brace. Each side of the frame carries one 200 lb point load; I analyzed one side by symmetry.",
+      {
+       "text": "Brace: a 1 in × 0.125 in bar at 45°, treated as a two-force member.",
+       "items": [
+        "Brace force F_BD = 100 / sin 45° = 141.42 lb; axial stress 1131.4 psi."
+       ]
+      },
+      {
+       "text": "Frame: a hollow steel tube, 2 in OD and 1.875 in ID.",
+       "items": [
+        "Combined axial (526.3 psi) and bending stress from the brace (5036.5 psi) gives a required Sy of 11,125.6 psi at SF 2."
+       ]
+      },
+      "The report's brace buckling check is not shown here: it used steel's modulus for what became an aluminum brace. See \"What I'd check next\"."
+     ]
+    },
+    {
+     "heading": "My part: fatigue and material selection (report §2.2)",
+     "items": [
+      "Load case: people sitting down and standing up, so the load cycles 0 → 200 lb per person. Designed for infinite life.",
+      "Applied Marin factors to the endurance limit and used the modified Goodman criterion with n = 2.",
+      "Required ultimate strength: 5551 psi for the brace and 32,047 psi for the frame. Fatigue, not static stress, drove the frame material.",
+      "Selected AISI 1006 hot-rolled steel for the frame (Sut 43 ksi, Sy 24 ksi) and 2017-O aluminum for the brace (Sut 26 ksi, Sy 10 ksi); the brace material was chosen on fatigue alone."
+     ]
+    },
+    {
+     "heading": "My part: frame-to-brace bolt (report §3.3)",
+     "items": [
+      "A 1/4 in-28 UNF bolt in pure shear carries the 141.42 lb brace force. I sized its length (2.25 in) and thread length from the grip.",
+      "Shear stress 4338 psi. A Grade 5 bolt gives a safety factor of 12.24, far more than needed.",
+      "Downgraded to Grade 1 (n = 4.8), which still clears the SF 2 target and costs less."
+     ]
+    },
+    {
+     "heading": "My part: CAD and 3D printing",
+     "items": [
+      "Modeled the team's SolidWorks parts and assemblies: bench arm, table arm, tabletop, bench seat and the scaled full assembly (146.9 × 58.9 × 88 mm, 7 parts).",
+      "Did all the 3D printing: a test arm, test cylinders and arm caps in several sizes. The v2 table arm opened the pivot bore from Ø7 to Ø8 mm."
+     ]
+    },
+    {
+     "heading": "Team work (not my sections)",
+     "items": [
+      "Teammates designed the hand-crank 2-stage gearbox (12T → 60T spur stages), sized the tabletop and bench seats, and checked the welds and the tabletop bolts."
+     ]
+    },
+    {
+     "heading": "What I'd check next",
+     "items": [
+      "Re-check the brace for buckling. The team's check used Johnson's formula with steel's modulus (30 × 10⁶ psi), but the brace chosen later is 2017-O aluminum (about 10.5 × 10⁶ psi), and a brace this slender is governed by Euler's formula. With aluminum it likely falls below a safety factor of 1, so the fix would be a steel brace or a thicker bar.",
+      "Build and load-test a full-size frame and brace. Nothing in this project was physically tested."
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/cad/table/table_FullAssembly_iso.png",
+     "alt": "SolidWorks isometric of the scaled picnic table folded flat, with the bench seats and arms stowed under the tabletop",
+     "caption": "My SolidWorks model of the scaled table, fully collapsed: tabletop, both bench seats and folding arms"
+    },
+    {
+     "src": "assets/img/cad/table/table_Assem1_iso.png",
+     "alt": "SolidWorks isometric of the tabletop and v2 folding arms, with no bench seats attached",
+     "caption": "Tabletop with the v2 folding arms, without the bench seats"
+    },
+    {
+     "src": "assets/img/benchpress/fbd_bench_frame_with_brace.png",
+     "alt": "Free-body diagram of the bench frame: 100 lb loads at C and D, 45-degree braces, 200 lb reaction at A, 9 in and 9 in spans",
+     "caption": "FBD of the bench frame with the 45° brace (my §2.1)"
+    },
+    {
+     "src": "assets/img/benchpress/fbd_brace_two_force_member.png",
+     "alt": "Free-body diagram of brace BD as a two-force member, with the force balance at joint D",
+     "caption": "Brace BD as a two-force member and the joint D force balance"
+    },
+    {
+     "src": "assets/img/benchpress/fbd_vertical_bench_frame.png",
+     "alt": "Free-body diagram of the vertical frame member AC with forces FCD and FBD",
+     "caption": "FBD of the vertical frame member"
+    },
+    {
+     "src": "assets/img/benchpress/bolt_frame_to_brace_shear.png",
+     "alt": "Sketch of the brace bolted to the frame, with the 141.42 lb brace force acting on the bolt",
+     "caption": "Frame-to-brace bolt in shear, F_BD = 141.42 lb (my §3.3)"
+    }
+   ],
+   "videos": []
+  },
+  {
+   "slug": "robotic-treasure-chest",
+   "title": "Robotic Treasure Chest",
+   "kind": "Personal project",
+   "home": "featured",
+   "card": "Servo-driven custom bevel gears open the lid in sync with a piezo melody.",
+   "summary": {
+    "Problem": "Design a fully 3D-printed storage chest with Arduino electronics to make an interactive desk toy.",
+    "Date": "Dec 2025 – Jan 2026",
+    "My role": "Personal project: mechanism design, CAD, printing, electronics and Arduino code",
+    "Size": "70 × 75 × 67 mm closed",
+    "Tools": "SolidWorks, 3D printing, Arduino C++, servo motor, piezo buzzer",
+    "Result": "Working desk toy whose custom gear assembly opens the chest in sync with the classic Legend of Zelda tune"
+   },
+   "sections": [
+    {
+     "heading": "Mechanism iterations",
+     "items": [
+      {
+       "text": "Brainstormed and prototyped several opening mechanisms based on the Arduino components available.",
+       "items": [
+        "First iteration: a servo with a custom spool tensioned a string from inside the chest. The lid could not open at different speeds; it only opened rapidly once enough tension built up.",
+        "Second iteration: custom bevel gears driven by the servo, attached to the back of the chest near the hinge. This allowed more dynamic movement, but the assembly was too fragile and broke during adjustments.",
+        "Third iteration: improved tolerances and hinge design for easier installation and lower stress on the gears and hinges."
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Specs (from the final CAD)",
+     "items": [
+      "Overall: 70 × 75 × 67 mm with the lid closed; 5 parts (base, lid, servo and two gears).",
+      "Drive: the servo turns a pair of 12-tooth straight bevel gears with 45° cones (a 1:1 miter pair at 90°, Ø16.1 mm). The second gear sits on the lid's hinge axis, so the servo rotates the lid directly.",
+      "Hinge: Ø3.8 mm pins on the lid sit in Ø4.0 mm open hooks on the base (0.2 mm diametral clearance), replacing the first version's separate bolt.",
+      "Walls: 2.0 mm lid shell and 2.0 mm base walls."
+     ]
+    },
+    {
+     "heading": "Bevel gear versions (CAD)",
+     "items": [
+      "v1: Ø12 × 4 mm gear with 23.6° / 33.3° tooth cones and a Ø4.0 mm bore.",
+      "v2: grown to Ø16.1 × 6.5 mm with 45° cones, so the two identical gears form a true 1:1 pair at 90°; bore opened to Ø4.5 mm.",
+      "Final assembly: a no-bore version of the v2 gear."
+     ]
+    },
+    {
+     "heading": "Electronics & code",
+     "items": [
+      "Added a piezo buzzer that plays a song in sync with the opening motion of the chest.",
+      {
+       "text": "Wrote Arduino code that translates strings into musical notes for the piezo buzzer.",
+       "items": [
+        "Converts strings like \"C4\" into the correct integer frequency based on A440 tuning."
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Result",
+     "items": [
+      "Fully functional desk toy (see the demo video) that uses a custom gear assembly to open the chest in sync with the classic tune from The Legend of Zelda."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Designing custom bevel gears",
+      "Creating dynamic assemblies with multiple moving parts in SolidWorks",
+      "Programming servo motors and piezo buzzers in Arduino C++"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/robotic-treasure-chest/02_IMG_4542_edited.jpg",
+     "alt": "Three printed treasure chest prototypes side by side with their gear parts",
+     "caption": "All design iterations"
+    },
+    {
+     "src": "assets/img/cad/chest/chest_assembly_iso.png",
+     "alt": "SolidWorks isometric of the closed treasure chest with the bevel gear pair visible at the back corner",
+     "caption": "Final assembly, isometric, lid closed"
+    },
+    {
+     "src": "assets/img/cad/chest/chest_assembly_iso_rear.png",
+     "alt": "Rear isometric of the chest showing the servo, the two bevel gears and the lid hinge shaft",
+     "caption": "Rear view: servo, 1:1 bevel gear pair and lid hinge shaft"
+    },
+    {
+     "src": "assets/img/cad/chest/chest_section_gear_mesh.png",
+     "alt": "Section view through both gear axes showing two 45-degree bevel gears meeting at a right angle",
+     "caption": "Section through both gear axes: 45° miter gears at 90°, lid hinge shaft (left) and servo (bottom)"
+    },
+    {
+     "src": "assets/img/cad/chest/chest_bevel_gear_closeup.png",
+     "alt": "Close-up of two meshing 12-tooth bevel gears",
+     "caption": "The two 12-tooth bevel gears (Ø16.1 mm)"
+    },
+    {
+     "src": "assets/img/robotic-treasure-chest/03_ZeldaChestAssembly.jpg",
+     "alt": "SolidWorks render of the treasure chest with the servo and bevel gears mounted at the hinge",
+     "caption": "Full CAD assembly"
+    },
+    {
+     "src": "assets/img/robotic-treasure-chest/01_IMG_4558_2.jpeg",
+     "alt": "First printed chest, opened, showing the spool mechanism inside",
+     "caption": "Original design with spool"
+    }
+   ],
+   "videos": [
+    {
+     "src": "assets/video/robotic-treasure-chest-1.mp4",
+     "poster": "assets/img/robotic-treasure-chest/video1_poster.jpg",
+     "title": "Robotic treasure chest: product demonstration"
+    }
+   ]
+  },
+  {
+   "slug": "cost-estimation-tool",
+   "title": "Cost Estimation Tool",
+   "kind": "Hasbro · Games",
+   "home": "featured",
+   "card": "Board-game cost estimates went from about an hour to about 5 minutes for 4 engineers.",
+   "stat": "~1 h → 5 min",
+   "summary": {
+    "Problem": "Give Hasbro games engineers a standard tool to make accurate board-game cost estimates in less time.",
+    "My role": "Project Engineer Co-op, Hasbro (Games, Play-Doh, NERF); built on my own initiative",
+    "Users": "4 games engineers",
+    "Tools": "Excel, Power Apps, Power Automate, Power Query, SharePoint",
+    "Result": "A typical estimate went from about an hour to about 5 minutes"
+   },
+   "sections": [
+    {
+     "heading": "Objective",
+     "items": [
+      "Speed up reference costing: pricing a new board game from the costs of items in existing quotes."
+     ]
+    },
+    {
+     "heading": "How it works",
+     "items": [
+      "Quote library: the tool reads a library of existing quotes.",
+      "Analysis: it analyzes the quote data and breaks it down into individual items.",
+      "Cost database: it uploads each item to a cost database on SharePoint.",
+      "Estimate: the engineer picks items from dropdowns, such as \"deck of 52 cards\" or \"10 × 10 game board\", and the costs fill in automatically.",
+      "The final output table is in a project-ready format to share with team members in scrum and gate meetings.",
+      "Presented the final working version to employees and leadership from multiple departments at a monthly ToyBox meeting."
+     ]
+    },
+    {
+     "heading": "Result",
+     "items": [
+      "All 4 games engineers used the tool. A typical estimate went from about an hour to about 5 minutes.",
+      "It also gives a more accurate starting cost, which should mean fewer re-estimates and firmer footing when pushing back on vendor quotes."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Building user-focused Power Apps",
+      "Developing Power Automate flows and Power Query scripts",
+      "Creating accurate cost estimates from a database of reference costs",
+      "Creating SharePoint sites with dynamic lists for large datasets",
+      "Advanced Excel formulas, data spills and data validation"
+     ]
+    }
+   ],
+   "images": [],
+   "videos": []
+  },
+  {
+   "slug": "epic-project",
+   "title": "EPIC Toy Concept",
+   "kind": "Hasbro · Games",
+   "home": "featured",
+   "card": "Led a 5-person co-op team; designed a spring-driven rack-and-pinion slide for the functional prototype.",
+   "stat": "Led 5-person team",
+   "summary": {
+    "Problem": "Design and prototype a new toy concept from the ground up, using electronics and internal mechanisms.",
+    "Team": "5 co-ops; I led the team",
+    "My role": "Team lead; designed the rack-and-pinion slide mechanism and reworked the CAD to package electronics from torn-down products",
+    "Tools": "SolidWorks, 3D printing (PLA), product teardowns, cost estimation",
+    "Result": "Concept, functional prototype and pitch presented to Hasbro senior leadership; well received, not pursued yet"
+   },
+   "intro": "Because of IP sensitivity, I can't share images of the concept or its specific details. This is a general outline of my responsibilities and the work completed.",
+   "sections": [
+    {
+     "heading": "Objective",
+     "items": [
+      "Design and prototype a unique, innovative toy concept from the ground up that uses electronic components and internal physical mechanisms."
+     ]
+    },
+    {
+     "heading": "Engineering",
+     "items": [
+      "Designed a rack-and-pinion system that slides part of a gauntlet out to expose a slot for a microswitch key.",
+      "The mechanisms are spring-driven; the prototype has no motors.",
+      "Modeled the parts in SolidWorks and 3D printed functional prototypes in PLA.",
+      "Took apart existing products that had features we wanted and adjusted the CAD model so their electronics fit inside our prototype.",
+      "Created cost estimates with detailed breakdowns of material, labor and markup costs."
+     ]
+    },
+    {
+     "heading": "Leading the team",
+     "items": [
+      "Led the 5-person co-op team and ran weekly scrum meetings to review progress and plan development.",
+      "Brainstormed story-driven play patterns for several potential IPs.",
+      "Networked with employees across the company for advice on improving the product and applying toyetic design principles.",
+      "Presented progress to leadership in multiple Stage Gate meetings and folded their feedback into later design iterations.",
+      "Presented the final concept with a functional prototype, sizzle video and PowerPoint deck to senior leadership, presenting in character for extra immersion."
+     ]
+    },
+    {
+     "heading": "Result",
+     "items": [
+      "The concept was well received by Hasbro leadership. It has not been taken further yet."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Running weekly scrum meetings",
+      "Creating detailed cost estimates throughout the product development cycle",
+      "Creating entertaining and engaging presentations",
+      "Designing products with a focus on consumer identity",
+      "Communicating with leadership and senior managers"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/epic-project/01_IMG_4230.jpeg",
+     "alt": "Robert wearing a Spider-Man mask",
+     "caption": "A fun team moment: dressing up in character for the pitch"
+    }
+   ],
+   "videos": [],
+   "card_image": false
+  },
+  {
+   "slug": "micro-supercapacitor-capstone",
+   "title": "Flexible Micro-Supercapacitors",
+   "kind": "Senior capstone · in progress",
+   "home": "education",
+   "card": "Technical lead of a 6-person team (Team 13, Micro Charge) that selected materials and planned the process for a flexible micro-supercapacitor.",
+   "summary": {
+    "Problem": "Make a micro-scale, mechanically flexible supercapacitor for wearable and implantable devices.",
+    "Date": "Spring 2026 – Spring 2027",
+    "Team": "Team 13 \"Micro Charge\": 6 students; advisor Prof. Yung Joon Jung",
+    "My role": "Technical lead (team charter): check calculations and verify designs",
+    "Status": "Research and design done; nothing fabricated yet. Fabrication and testing in Capstone 2"
+   },
+   "sections": [
+    {
+     "heading": "Problem",
+     "items": [
+      "Supercapacitors charge almost instantly and store far more energy than ordinary capacitors, but they are bulky and rigid. A micro-scale, flexible version could power implantable, wearable and compact devices.",
+      "Example use case: a smaller, flexible continuous glucose monitor patch. Current monitors are rigid and roughly the size of a walnut."
+     ]
+    },
+    {
+     "heading": "My role",
+     "items": [
+      "Technical lead, as defined in the team charter: responsible for checking calculations and verifying that designs are valid.",
+      "As technical lead, I assigned two teammates to cleanroom and dip-coating training so they can fabricate the prototypes. I do not do cleanroom work myself.",
+      "My research topic: which materials are used in supercapacitors today, and why (activated-carbon pore size, carbon nanotubes, graphene, MXene, and aqueous, organic and gel electrolytes)."
+     ]
+    },
+    {
+     "heading": "Material selection",
+     "items": [
+      "Compared electrode, electrolyte and substrate candidates on surface area, conductivity, flexibility, leakage, cost and ease of getting them, then discussed them with the advisor.",
+      "Selected design: carbon-nanotube (CNT) electrodes, a PVA gel electrolyte based on phosphoric or sulfuric acid, and a Kapton or PET film as the flexible substrate. CNTs were also already available in the lab.",
+      "MXene was dropped: it is easily oxidized and hard to get. A solid gel electrolyte was chosen so nothing can leak."
+     ]
+    },
+    {
+     "heading": "Planned process",
+     "items": [
+      "Kapton on a silicon carrier wafer → positive photoresist → UV exposure through the lab's existing interdigitated finger masks (10, 20, 50 and 200 µm) → CNT dip or spray coating → lift-off → gel electrolyte and metal terminals → protective encapsulation.",
+      "Testing (Spring 2027): capacitor performance and flexibility. The detailed test plan will be set next semester; the team's slides list cyclic voltammetry, charge/discharge, impedance spectroscopy, microscope checks for short circuits and bending fatigue as candidates."
+     ]
+    },
+    {
+     "heading": "Ethics: chemical leakage",
+     "items": [
+      "I wrote the ethical-issues section of the team's Ethics and Impact memo. I named preventing chemical leakage as the top safety duty for a device worn on or in the body.",
+      "This supports the solid gel electrolyte and the protective encapsulation layer in the design."
+     ]
+    },
+    {
+     "heading": "Timeline",
+     "items": [
+      "Capstone 1 (May–Jun 2026, done): problem statement, team charter, literature research, advisor presentation, Ethics and Impact memo, and final presentation.",
+      "Capstone 2 (Jan–Apr 2027, planned): lab, cleanroom, dip-coating and photolithography training; BOM and material orders; initial prototype; characterization; iterative prototypes; final report and presentation.",
+      "This page will be updated when there are test results."
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/capstone/micro-charge-logo.png",
+     "alt": "Team Micro Charge logo: a chip outline with negative and positive electrodes, and the words MICRO CHARGE",
+     "caption": "Team Micro Charge, MEIE senior capstone Team 13 (Northeastern University, 2026–2027)."
+    },
+    {
+     "src": "assets/img/capstone/interdigitated-electrode-layout.png",
+     "alt": "Top-view schematic of interlocking carbon-nanotube finger electrodes on a flexible orange film, with gold + and − pads and a gel electrolyte area",
+     "caption": "Planned device concept: in-plane interdigitated CNT electrodes on Kapton/PET under a PVA-acid gel electrolyte. Redrawn illustrative schematic, not to scale; the lab's existing masks offer 10, 20, 50 and 200 µm finger patterns."
+    },
+    {
+     "src": "assets/img/capstone/material-selection-matrix.png",
+     "alt": "Table comparing activated carbon, carbon nanotubes, graphene and MXene electrodes, aqueous, organic and gel electrolytes, and Kapton/PET substrates, with selected options highlighted green",
+     "caption": "Material selection outcome: CNT electrodes, acid-based PVA gel electrolyte, and Kapton or PET substrate. MXene was dropped because it is \"easily oxidized, not easy to acquire\". Redrawn from the team's Capstone 1 slides and advisor notes; qualitative comparison, not a scored matrix."
+    },
+    {
+     "src": "assets/img/capstone/quantitative-goals-table.png",
+     "alt": "Table of typical supercapacitor values: capacitance 1 F – 3,000 F, impedance 0.01–150 mΩ, ~2.5–2.7 V, 5-10 seconds charge/discharge, ~1M cycles",
+     "caption": "Quantitative goals: typical supercapacitor benchmarks the flexible MSC should at least match. Targets, not measured results. Redrawn from the Capstone 1 final presentation (slide 5), whose original table was not readable."
+    },
+    {
+     "src": "assets/img/capstone/slide-solution-approach.png",
+     "alt": "Presentation slide showing four steps: flexible substrate roll, photolithography (light, reticle mask, lens, wafer), carbon nanotube deposition equipment, and an electrode-coating glovebox",
+     "caption": "Solution approach slide from the team's Capstone 1 final presentation: flexible substrate → photolithography → CNT deposition → electrode coating."
+    },
+    {
+     "src": "assets/img/capstone/fabrication-process-flow.png",
+     "alt": "Eight cross-section panels: Kapton on silicon, photoresist spin-coat, UV exposure through a finger mask, development, CNT deposition, lift-off, gel electrolyte with metal terminals, and encapsulation",
+     "caption": "Planned fabrication sequence for Spring 2027, redrawn from the final-presentation speaker notes. Schematic only; no device has been fabricated yet."
+    },
+    {
+     "src": "assets/img/capstone/flexible-substrate-encapsulation-concept.png",
+     "alt": "Exploded illustration of a micro-supercapacitor chip between two flexible orange substrate layers",
+     "caption": "Encapsulation concept from the team's ethics slide: a protective flexible layer keeps the CNTs and electrolyte from escaping, which addresses the chemical-leakage risk I raised in the Ethics memo."
+    },
+    {
+     "src": "assets/img/capstone/capstone1-gantt-summer2026.png",
+     "alt": "Gantt chart from May 11 to June 17, 2026 with research, presentation, literature review and report tasks; critical path in red",
+     "caption": "Capstone 1 schedule (Summer 2026, completed). Critical path: memo & Gantt → advisor background presentation → draft literature review → written report. Redrawn from the team's Gantt chart.xlsx."
+    },
+    {
+     "src": "assets/img/capstone/capstone2-gantt-spring2027.png",
+     "alt": "Gantt chart from January 4 to April 23, 2027 with lab trainings, BOM and ordering, prototyping and characterization cycles, and the final report and presentation",
+     "caption": "Capstone 2 plan (Spring 2027): trainings → materials → initial prototype → characterization → iterative prototypes → final presentation. Redrawn from the team's Capstone 2 Gantt chart.xlsx."
+    }
+   ],
+   "videos": []
+  },
+  {
+   "slug": "guitar-capo",
+   "title": "3D-Printed Guitar Capo",
+   "kind": "Personal project",
+   "home": "other",
+   "card": "Trial-and-error prints to a print-in-place hinge and ratchet; 7 CAD versions.",
+   "summary": {
+    "Problem": "Make a 3D-printed capo for an acoustic guitar that works at more than one fret.",
+    "Date": "Jan 2026",
+    "My role": "Personal project: design, printing and testing",
+    "Tools": "SolidWorks, 3D printing",
+    "Result": "Fourth version has a working print-in-place hinge and ratchet. It works, but only roughly."
+   },
+   "sections": [
+    {
+     "heading": "Approach",
+     "items": [
+      "Measured the fretboard at several points, since the neck gets thicker further up.",
+      "Commercial capos use metal torsion springs. A plastic print needed a different way to apply pressure.",
+      "I did no calculations. It was trial and error: I changed dimensions between prints until it roughly worked."
+     ]
+    },
+    {
+     "heading": "Iterations",
+     "items": [
+      "1: two pieces with rubber bands and a flat bar. Hard to attach, and the bar bent, so the middle strings did not sound right.",
+      "2: one-piece clip with a rubber band. Easier to attach, but the bar still bent.",
+      "3: lever arm on a print-in-place hinge with a ratchet. The hinge fused, and it only fit the first fret.",
+      "4: the hinge and ratchet work, and it is easy to attach.",
+      "The design went through 7 CAD versions in SolidWorks (v1–v6 and v8)."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Designing print-in-place hinges and a ratchet in SolidWorks",
+      "The importance of accounting for deflection in designs"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/guitar-capo/05_GuitarCapoAssembly.jpg",
+     "alt": "SolidWorks render of the one-piece capo: U-shaped clamp with a lever arm on a hinge",
+     "caption": "Full CAD assembly"
+    },
+    {
+     "src": "assets/img/guitar-capo/06_GuitarCapoAssembly_SectionView1.jpg",
+     "alt": "Section view of the capo assembly cut through the print-in-place hinge",
+     "caption": "Print-in-place hinge, section view"
+    },
+    {
+     "src": "assets/img/guitar-capo/07_GuitarCapoAssembly_SectionView2.jpg",
+     "alt": "Second section view of the capo's print-in-place hinge",
+     "caption": "Print-in-place hinge, second section view"
+    },
+    {
+     "src": "assets/img/guitar-capo/04_IMG_4530_edited_edited.jpg",
+     "alt": "All capo prototypes lined up in order on a wooden table",
+     "caption": "All design iterations"
+    },
+    {
+     "src": "assets/img/guitar-capo/01_IMG_4578.jpeg",
+     "alt": "First capo prototype, a flat bar held with rubber bands, mounted on a guitar neck",
+     "caption": "Initial design"
+    },
+    {
+     "src": "assets/img/guitar-capo/02_IMG_4535.jpeg",
+     "alt": "Third capo prototype held in hand, with the hinge fused shut",
+     "caption": "Third design with fused hinge"
+    },
+    {
+     "src": "assets/img/guitar-capo/03_IMG_4539.jpeg",
+     "alt": "Final capo prototype held in hand with a working hinge",
+     "caption": "Final design with functional hinge"
+    }
+   ],
+   "videos": []
+  },
+  {
+   "slug": "sponge-holder",
+   "title": "Sponge Holder",
+   "kind": "Personal project",
+   "home": "other",
+   "card": "Printed sponge holder that drains into the sink; PLA for prototypes, PETG for the final part.",
+   "summary": {
+    "Problem": "Design a 3D-printed sponge holder with a working drainage system that is convenient to use.",
+    "Date": "Dec 2025 – Jan 2026",
+    "Tools": "SolidWorks, 3D printing (PLA, PETG)",
+    "Result": "Easy-to-use holder that drains directly into the sink without leaving water on the counter"
+   },
+   "sections": [
+    {
+     "heading": "Design process",
+     "items": [
+      "Measured the sponge and used the dimensions to create a 3D model in SolidWorks.",
+      {
+       "text": "Printed models in two materials, PETG and PLA.",
+       "items": [
+        "PETG has better temperature and water resistance, so it is the better material for the final product.",
+        "PLA prints much faster but does not handle long-term water exposure. It is best for quick prototypes here."
+       ]
+      },
+      {
+       "text": "Iterated on the first model to improve performance.",
+       "items": [
+        "Increased the size of the basin to make the sponge easier to remove.",
+        "Added a hook that wraps around the edge of the counter so the holder does not move and water does not spill."
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Result",
+     "items": [
+      "A functional, easy-to-use sponge holder that drains directly into my sink without leaving water on the counter."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Drafting curved surfaces for drainage in SolidWorks",
+      "Differences between PETG and PLA filament for 3D printing"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/sponge-holder/01_IMG_4523.jpeg",
+     "alt": "First sponge holder prototype in white with a yellow sponge, on the counter next to the sink",
+     "caption": "Design iterations: first version"
+    },
+    {
+     "src": "assets/img/sponge-holder/02_IMG_4528.jpeg",
+     "alt": "Final green sponge holder with a larger basin, hooked over the counter edge above the sink",
+     "caption": "Design iterations: final version"
+    }
+   ],
+   "videos": [
+    {
+     "src": "assets/video/sponge-holder-1.mp4",
+     "poster": "assets/img/sponge-holder/video1_poster.jpg",
+     "title": "Sponge holder: original design demo"
+    },
+    {
+     "src": "assets/video/sponge-holder-2.mp4",
+     "poster": "assets/img/sponge-holder/video2_poster.jpg",
+     "title": "Sponge holder: final design demo"
+    }
+   ]
+  },
+  {
+   "slug": "custom-shower-installation",
+   "title": "Custom Shower Installation",
+   "kind": "Personal project",
+   "home": "other",
+   "card": "Built a shower by myself in 2022 to the Massachusetts plumbing code: framing, plumbing, liner, mortar bed and tile.",
+   "summary": {
+    "Problem": "Design and install a fully tiled shower to the Massachusetts plumbing code (2022).",
+    "Date": "2022",
+    "My role": "Did all of the work myself",
+    "Tools": "Circular saw, table saw, jig saw, chop saw, hand saws, hammer drill, impact driver, orbital and belt sanders, wet saw, laser level",
+    "Result": "A functional shower built to code, ready for use in a residential property"
+   },
+   "sections": [
+    {
+     "heading": "Process",
+     "items": [
+      "Researched the Massachusetts plumbing code in effect in 2022 and the relevant building codes to inform the design.",
+      "Installed the P-trap, vent pipe, shower valve, PEX supply lines and the other code-required components of the shower's plumbing.",
+      {
+       "text": "Built the structural framing with 2x4s and plywood.",
+       "items": [
+        "Tools used: circular saw, table saw, jig saw, chop saw, hammer drill, impact driver, orbital sander."
+       ]
+      },
+      "Installed the insulation, including in the shower bench.",
+      "Calculated the best cuts and corners for the PVC liner to use the most material while creating the fewest holes in the liner.",
+      "Built a 2×4 screed jig to fill and pitch the mortar bed in the shower basin.",
+      "Cut and installed the cement backer board required for tiling.",
+      {
+       "text": "Installed tiles on the walls and bench.",
+       "items": [
+        "Used a trowel to apply thinset to the cement board and the back of the tiles.",
+        "Cut tiles to size with a wet saw.",
+        "Used a laser level and spacers to keep the tiles aligned."
+       ]
+      },
+      "Installed the floor tiles and grouted the walls and floor."
+     ]
+    },
+    {
+     "heading": "Result",
+     "items": [
+      "A visually appealing, fully functional shower built to the Massachusetts plumbing code, ready for use in a residential property. I did every step myself."
+     ]
+    },
+    {
+     "heading": "Other home builds",
+     "items": [
+      "Framed an entire kitchen, including the wiring.",
+      "Built a staircase."
+     ]
+    },
+    {
+     "heading": "What I learned",
+     "items": [
+      "Building structural framing",
+      "Using many different power tools",
+      "Proper tile installation",
+      "Installing code-compliant bathroom plumbing",
+      "Massachusetts plumbing code requirements"
+     ]
+    }
+   ],
+   "images": [
+    {
+     "src": "assets/img/custom-shower-installation/03_969d07_2ee15fbfb25045859664e539f58d81ac_mv2.jpeg",
+     "alt": "Nearly finished shower with marble-look wall tile, a recessed niche and a mosaic floor",
+     "caption": "Near-completed shower"
+    },
+    {
+     "src": "assets/img/custom-shower-installation/01_IMG_0003.jpeg",
+     "alt": "Framed shower bench with insulation installed between the studs",
+     "caption": "Insulation installed on the shower bench"
+    },
+    {
+     "src": "assets/img/custom-shower-installation/02_IMG_0015.jpeg",
+     "alt": "Cement backer board installed around a recessed shower shelf",
+     "caption": "Cement board installed for the shower shelf"
+    }
+   ],
+   "videos": []
+  },
+  {
+   "slug": "coursework",
+   "title": "Coursework: Measurement Lab & FEA",
+   "kind": "Northeastern coursework",
+   "home": "other",
+   "card": "Sensor calibration, time constants, strain-gauge statistics and a wind-tunnel test; a coat hook redesigned from SolidWorks Simulation.",
+   "stat": "Lab + FEA",
+   "summary": {
+    "Courses": "ME 4505/4506 Measurement & Analysis with Thermal Science Applications (lecture and lab, Spring 2026); Mechanical Engineering Computation & Design; Mechanics of Materials and Dynamics labs",
+    "Tools": "Arduino DAQ, Excel, SolidWorks Simulation, Abaqus"
+   },
+   "sections": [
+    {
+     "heading": "Measurement & Analysis lab (ME 4505/4506, Spring 2026)",
+     "items": [
+      "Lab 1 and Lab 4 were my individual reports; the other labs and the term project were team work.",
+      "Ultrasonic distance sensor (Lab 1): each of us calibrated an Arduino HC-SR04 sensor against a different standard; my report compared all four (NIST gauge blocks, a laser distance meter, a tape measure and a ruler) and checked accuracy and precision against the spec sheet.",
+      "Solar cell power curves (Lab 2): designed the experiment, logged cell voltage through the Arduino's 10-bit ADC at two load resistances, and calculated power and efficiency.",
+      "Temperature sensors (Lab 3): calibrated a thermocouple and an RTD against a liquid-in-glass thermometer and measured time constants of 0.36 s (thermocouple), 4.9 s (RTD) and 55 s (IC sensor).",
+      {
+       "text": "Strain gauges (Lab 4): quarter-, half- and full-bridge Wheatstone circuits read on a Micro-Measurements P3 indicator.",
+       "items": [
+        "Calibration curves, hysteresis, drift and creep for each gauge",
+        "30-trial repeatability: chi-squared normality test, outlier test, and the sample size needed for 1% precision (N = 59)",
+        "Single-factor ANOVA across the four gauges (F = 24.8 vs. F critical 2.68)",
+        "Measured an unknown mass as 1.393 ± 0.589 lb with a full uncertainty analysis"
+       ]
+      },
+      "Energy balance (Lab 5): open- and closed-system energy balances on a lamp, using MAX6675 thermocouples, a lux sensor and an Arduino, with measured time constants for the bulb and holder.",
+      "Wind tunnel (Lab 6): tested a wind turbine with a pitot-static tube and differential pressure transducer, a hot-wire anemometer and a laser tachometer, then compared horizontal- and vertical-axis turbines' power coefficient against tip-speed ratio (another group tested the second turbine).",
+      "Term project (4-person team): calibrated a digital scale against NIST weights (accuracy 1.35%, precision 1.0%), propagated measurement uncertainty, and ran single-factor ANOVA to compare protein per dollar across four burrito restaurants near campus."
+     ]
+    },
+    {
+     "heading": "Mechanics of Materials and Dynamics labs",
+     "items": [
+      "Tensile, torsion and strain-gauged beam tests."
+     ]
+    },
+    {
+     "heading": "FEA",
+     "items": [
+      "Coat hook (personal project): designed a 3D-printed coat hook and redesigned it over 3 versions from SolidWorks Simulation static studies until the printed hook held a jacket.",
+      "Abaqus: homework in Mechanical Engineering Computation & Design, analyzing beams under several load cases."
+     ]
+    }
+   ],
+   "images": [],
+   "videos": []
+  }
+ ],
+ "cad_gallery": {
+  "heading": "More CAD & 3D-printed builds",
+  "items": [
+   {
+    "title": "Robot Arm",
+    "image": {
+     "src": "assets/img/cad/other/robot_arm.png",
+     "alt": "SolidWorks isometric of a small two-link arm made of flat plates joined by pins and spools"
+    },
+    "size": "76.8 × 36 × 106.4 mm; 8 parts",
+    "notes": "Tolerance test prints: motor housing bore Ø22.0 → Ø22.4 mm, plus smaller-tolerance versions of the motor arm and band spool, and a test gripper.",
+    "purpose": "Tried to build a mechanical arm from only friction-fit 3D-printed parts, with bands driven by the motor from my Arduino kit. Unfinished: the fits never worked."
+   },
+   {
+    "title": "Sous vide screw + holder",
+    "image": {
+     "src": "assets/img/cad/other/sousvide_screw_v2.png",
+     "alt": "SolidWorks isometric of a long printed screw with a round base"
+    },
+    "size": "Screw 16 × 64 × 16 mm; holder about 50 × 85 × 87 mm",
+    "notes": "Two CAD versions of the screw; the holder exists only as a print file.",
+    "purpose": "My sous vide's screw broke, so I recreated it in CAD and 3D-printed a replacement."
+   },
+   {
+    "title": "Chip clip",
+    "image": {
+     "src": "assets/img/cad/other/chipclip.png",
+     "alt": "SolidWorks isometric of a two-part clip with a round hinge at one end"
+    },
+    "size": "20 × 41 × 86 mm; 2 parts",
+    "notes": "Top and bottom halves on a Ø5 mm hinge; the bottom half has 2 versions.",
+    "purpose": "Recreated a chip clip from my desk to practice CAD and test my 3D printer."
+   },
+   {
+    "title": "Guitar capo",
+    "image": {
+     "src": "assets/img/cad/other/guitar_capo.png",
+     "alt": "SolidWorks isometric of the capo assembly: a curved clamp band with a ratchet"
+    },
+    "size": "64 × 10 × 60 mm assembly; 2 parts",
+    "notes": "7 CAD versions (v1–v6 and v8).",
+    "purpose": "I didn't have a guitar capo but had a 3D printer, so I tried to make one.",
+    "link": "guitar-capo"
+   }
+  ]
+ }
+}
