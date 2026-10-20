@@ -42,12 +42,23 @@ def og_image(src, dest):
     _save(canvas, dest, src)
 
 
+def _font(size, bold=False):
+    """Segoe UI on Windows, DejaVu Sans on Linux (GitHub Actions), else Pillow's built-in font."""
+    names = ("segoeuib.ttf", "DejaVuSans-Bold.ttf") if bold else ("segoeui.ttf", "DejaVuSans.ttf")
+    for name in names + tuple(f"/usr/share/fonts/truetype/dejavu/{n}" for n in names[1:]):
+        try:
+            return ImageFont.truetype(name, size)
+        except OSError:
+            pass
+    return ImageFont.load_default(size)
+
+
 def og_title_card(title, dest):
     """1200 x 630 link-preview card with the page title, for pages without images."""
     canvas = Image.new("RGB", (1200, 630), "#1d4ed8")
     d = ImageDraw.Draw(canvas)
-    big = ImageFont.truetype("segoeuib.ttf", 64)
-    small = ImageFont.truetype("segoeui.ttf", 34)
+    big = _font(64, bold=True)
+    small = _font(34)
     lines, line = [], ""
     for word in title.split():
         if line and d.textlength(f"{line} {word}", font=big) > 1040:
